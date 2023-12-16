@@ -76,7 +76,7 @@ public class Book {
   /**
    * Установить автора книги.
    *
-   * @param author Автор книги.
+   * @param author Автор книги
    */
   public void setAuthor(String author) {
     this.author = author;

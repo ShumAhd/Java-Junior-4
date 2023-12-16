@@ -11,7 +11,7 @@ import java.util.List;
 public class JpaExample {
 
   /**
-   * Точка входа в программу.
+   * Точка входа в программу
    *
    * @param args
    */

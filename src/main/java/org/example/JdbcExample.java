@@ -12,7 +12,7 @@ import java.sql.SQLException;
 public class JdbcExample {
 
   /**
-   * Точка входа в программу.
+   * Точка входа в программу
    *
    * @param args
    */
